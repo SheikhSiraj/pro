@@ -1,0 +1,177 @@
+<style>
+
+.element-container.st-emotion-cache-1aege4m.e1f1d6gn4
+{
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  display: inline-block;
+  border: 4px double rgba(255, 255, 255, 0.25);
+  border-width: 4px 0;
+  padding: 1.5em 0em;
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  width: 900px;
+  margin: 0 0 0 -20em;
+}
+#resume-builder
+{
+  width: 900px;
+  text-align:justify;
+  position: relative;
+  font: 600 6em/1 "Oswald", sans-serif;
+  letter-spacing: 0;
+  padding: 0.25em 0 0.325em;
+  display: block;
+  margin: 0 auto;
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+
+  background: url(https://images.freecreatives.com/wp-content/uploads/2016/03/Purple-Bokeh-Background.jpg) repeat-x;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: aitf 3s linear infinite alternate;
+
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+}
+@-webkit-keyframes aitf {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+@keyframes buttonAnimation {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.1); }
+        100% { transform: scale(1); }
+    }
+    .stButton button {
+        border:2px solid;
+        box-shadow: 8px 8px 8px #82238A;
+        color:white;
+        animation: buttonAnimation 1s infinite;
+}
+.stButton button:hover {
+        border:2px solid;
+        box-shadow: 8px 8px 8px #B312AF;
+        color:#ffffff;
+        border-radius: 20px;
+}
+.st-emotion-cache-ue6h4q.e1y5xkzn3
+{
+    color:rgb(47, 45, 45);
+    text-transform: uppercase;
+    width: 500px;
+    height:20px;
+    animation: slide-left 1.5s;
+}
+@keyframes slide-left
+{
+  from
+  {
+    margin-left: 15%;
+  }
+
+  to
+  {
+    margin-left: 0%;
+  }
+}
+.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9
+{
+    width:400px;
+    transition: width 0.5s;
+    border:2px solid;
+    box-shadow: 8px 8px 8px #82238A;
+    border-radius: 15px;
+}
+.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9:hover
+{
+    width:600px;
+    border:2px solid;
+    box-shadow: 8px 8px 8px #B312AF;
+    border-radius: 20px;
+}
+
+
+.st-ae.st-af.st-ag.st-ah.st-by.st-bz.st-c0.st-c1.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9
+{
+    width:400px;
+    transition: width 0.5s;
+    border:2px solid;
+    box-shadow: 8px 8px 8px #82238A;
+    border-radius: 15px;
+}
+.st-ae.st-af.st-ag.st-ah.st-by.st-bz.st-c0.st-c1.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9:hover
+{
+    width:600px;
+    border:2px solid;
+    box-shadow: 8px 8px 8px #B312AF;
+    border-radius: 20px;
+}
+
+
+
+.st-emotion-cache-kskxxl.e116k4er3
+{
+  border-radius: 15px;
+}
+.st-emotion-cache-1h9usn1.eqpbllx3
+{
+    background-color:white;
+
+}
+.st-emotion-cache-1dtefog.eqpbllx2
+{
+    color:black; 
+    
+}
+.st-emotion-cache-1dtefog.eqpbllx2:hover
+{
+    color:#B312AF;
+}
+
+.st-emotion-cache-kskxxl.e116k4er3,.st-emotion-cache-0.eqpbllx4
+{
+    border:2px solid;
+    box-shadow: 8px 8px 8px #82238A;
+}
+
+.st-emotion-cache-1167hq5.e1f1d6gn2
+{
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  border-radius: 20px;
+}
+.st-emotion-cache-15ecox0.ezrtsby0
+{
+  visibility: hidden;
+}
+
+.st-emotion-cache-6qob1r.eczjsme8
+{
+  background-color: #242424;
+  border: 2px solid rgb(73, 72, 72);
+}
+.st-emotion-cache-pkbazv.eczjsme10,.st-emotion-cache-17lntkn.eczjsme10
+{
+  font-family: Cambria;
+  color: white;
+}
+
+.eyeqlp51.st-emotion-cache-1f3w014.ex0cdmw0
+{
+  color: white;
+  background-color: #53034e;
+  border-radius: 50px;
+}
+.st-emotion-cache-6qob1r.eczjsme8,.st-emotion-cache-1gv3huu.eczjsme16
+{
+    width: 300px;
+}
+</style>

@@ -1,0 +1,32 @@
+/* Custom styles for Streamlit Resume Generator */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+h1, h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.stButton button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.stTextInput, .stTextArea {
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+.stSelectbox {
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    padding: 5px;
+}
